@@ -1,6 +1,6 @@
 # GTTS Project
 <p align="center">
-  <img width="400" height="400" src=https://github.com/NjoodJ/Text-to-Speech-using-gtts/assets/93571826/6ad86fd0-1677-493a-9822-192aeb3720ae>
+  <img width="300" height="300" src=https://github.com/NjoodJ/Text-to-Speech-using-gtts/assets/93571826/6ad86fd0-1677-493a-9822-192aeb3720ae>
 </p>
 
 This project is a small demonstration of using the GTTS (Google Text-to-Speech) library in Python to convert text into speech. It provides a simple command-line interface for converting text to speech and saving the audio output as an MP4 file.
