@@ -1,4 +1,4 @@
-# GTTS Project
+# Arabic GTTS Project
 <p align="center">
   <img width="300" height="300" src=https://github.com/NjoodJ/Text-to-Speech-using-gtts/assets/93571826/6ad86fd0-1677-493a-9822-192aeb3720ae>
 </p>
