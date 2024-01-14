@@ -1,6 +1,6 @@
 # Arabic GTTS (Google Text-to-Speech) Project
 <p align="center">
-  <img width="300" height="300" src=https://github.com/NjoodJ/Text-to-Speech-using-gtts/assets/93571826/6ad86fd0-1677-493a-9822-192aeb3720ae>
+  <img width="200" height="200" src=https://github.com/NjoodJ/Text-to-Speech-using-gtts/assets/93571826/6ad86fd0-1677-493a-9822-192aeb3720ae>
 </p>
 
 The Arabic GTTS project is an application that utilizes the Google Text-to-Speech API to convert Arabic text into spoken audio. It enables users to generate high-quality audio files from Arabic text input.
